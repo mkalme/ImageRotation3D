@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.352
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageRotation3D", "ImageRotation3D\ImageRotation3D.csproj", "{1B83E743-0CEC-45D3-AA65-DF341A949FD3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageRotation3D_Rendering", "ImageRotation3D_Rendering\ImageRotation3D_Rendering.csproj", "{74E26E0D-7F52-43C5-8FE0-1C63833001BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B83E743-0CEC-45D3-AA65-DF341A949FD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B83E743-0CEC-45D3-AA65-DF341A949FD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B83E743-0CEC-45D3-AA65-DF341A949FD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B83E743-0CEC-45D3-AA65-DF341A949FD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74E26E0D-7F52-43C5-8FE0-1C63833001BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74E26E0D-7F52-43C5-8FE0-1C63833001BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74E26E0D-7F52-43C5-8FE0-1C63833001BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74E26E0D-7F52-43C5-8FE0-1C63833001BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3936AD29-DE1A-4024-A776-49D5588F59B7}
+	EndGlobalSection
+EndGlobal
